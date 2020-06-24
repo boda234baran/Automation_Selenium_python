@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8a8dd05-b709-47c2-813d-0932d8478433" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Automation_Selenium_python" />
+  </component>
+  <component name="ProjectId" id="1dflDhStiZpdykTSKeKUQug56yn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Богдан\Desktop\AQA\portfolio" />
+      <recent name="C:\Users\Богдан\Desktop\AQA\portfolio\_tests" />
+      <recent name="C:\Users\Богдан\Desktop\AQA\portfolio\tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Богдан\Desktop\AQA\portfolio\tests" />
+      <recent name="C:\Users\Богдан\Desktop\AQA\portfolio\pages" />
+      <recent name="C:\Users\Богдан\Desktop\AQA\portfolio" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8a8dd05-b709-47c2-813d-0932d8478433" name="Default Changelist" comment="" />
+      <created>1592823912231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592823912231</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592824204393">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="432" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-316.1920.1050@0.0.1366.738" timestamp="1592824204393" />
+    <state x="462" y="143" key="FileChooserDialogImpl" timestamp="1592844475776">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="143" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1592844475776" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1592844510052">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738/-1920.-316.1920.1050@0.0.1366.738" timestamp="1592824619502" />
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1592844510052" />
+    <state x="802" y="0" width="517" height="698" key="refactoring.ChangeSignatureDialog" timestamp="1593004007207">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="802" y="0" width="517" height="698" key="refactoring.ChangeSignatureDialog/0.0.1366.738/-1366.-174.1366.738@0.0.1366.738" timestamp="1593004007207" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1592914742208">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/-1920.-316.1920.1050@0.0.1366.738" timestamp="1592914742208" />
+  </component>
+</project>
