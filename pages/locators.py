@@ -1,3 +1,6 @@
+class Header:
+    LOGO = '#logo'
+
 class AutocompliteLocators:
     EMAIL_FILL = '#autocomplete'
     EMAIL_VALUE = 'test@test'
@@ -31,12 +34,15 @@ class ButtonsLocators:
     DROPDOWNLINK1 = '[class="dropdown-menu show"] [class="dropdown-item"]:nth-child(1)'
     DROPDOWNLINK2 = '[class="dropdown-menu show"] [class="dropdown-item"]:nth-child(2)'
 
-class ChekboxLocators:
-    pass
+
+class CheckboxLocators:
+    CHECK_ONE = '#checkbox-1'
+    CHECK_TWO = '#checkbox-2'
+    CHECK_THREE = '#checkbox-3'
 
 
 class DatepickerLocators:
-    pass
+    INPUT_DATEPICHER = '#datepicker'
 
 
 class DragAndDropLocators:

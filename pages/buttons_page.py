@@ -1,10 +1,10 @@
 from .base_page import BasePage
-from .locators import ButtonsLocators
-
+from .locators import ButtonsLocators,Header
+import selenium
+from selenium.webdriver.common.by import By
 
 class Buttons(BasePage):
     def click_buttons(self):
-        #test
         self.browser.find_element_by_css_selector(ButtonsLocators.PRIMARY_BTN).click()
         self.browser.find_element_by_css_selector(ButtonsLocators.SUCCESS_BTN).click()
         self.browser.find_element_by_css_selector(ButtonsLocators.INFO_BTN).click()
@@ -18,6 +18,4 @@ class Buttons(BasePage):
         self.browser.find_element_by_css_selector(ButtonsLocators.SECOND_BTN).click()
         self.browser.find_element_by_css_selector(ButtonsLocators.DROPDOWN).click()
         self.browser.find_element_by_css_selector(ButtonsLocators.DROPDOWNLINK1).click()
-        self.browser.find_element_by_css_selector(ButtonsLocators.DROPDOWN).click()
-        self.browser.find_element_by_css_selector(ButtonsLocators.DROPDOWNLINK2).click()
 

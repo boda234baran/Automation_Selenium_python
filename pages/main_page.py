@@ -10,7 +10,7 @@ class MainPage(BasePage):
         buttons_link = self.browser.find_element_by_css_selector('li:nth-child(6) > a')
         buttons_link.click()
 
-    def go_to_chekbox(self):
+    def go_to_checkbox(self):
         checkbox_link = self.browser.find_element_by_css_selector('li:nth-child(7) > a')
         checkbox_link.click()
 
